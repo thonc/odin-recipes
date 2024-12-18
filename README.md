@@ -1,0 +1,1 @@
+This is a Odin project creating a recipy page to practice HTML skills learnt in HTML Foundations.
